@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小李飞漂</title>
+  
+  <subtitle>xiaolifeipiao</subtitle>
+  <link href="http://xiaolifeipiao.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://xiaolifeipiao.github.io/"/>
+  <updated>2021-04-15T06:53:13.470Z</updated>
+  <id>http://xiaolifeipiao.github.io/</id>
+  
+  <author>
+    <name>xiaolifeipiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>23种设计模式的概述</title>
+    <link href="http://xiaolifeipiao.github.io/2020/05/15/23-chong-she-ji-mo-shi/"/>
+    <id>http://xiaolifeipiao.github.io/2020/05/15/23-chong-she-ji-mo-shi/</id>
+    <published>2020-05-15T12:46:25.000Z</published>
+    <updated>2021-04-15T06:53:13.470Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;设计模式有两种分类方法，即根据模式的目的来分和根据模式的作用的范围来分。&lt;/p&gt;
+&lt;h2 id=&quot;1-根据目的来分&quot;&gt;&lt;a href=&quot;#1-根据目的来分&quot; class=&quot;headerlink&quot; title=&quot;1. 根据目的来分&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端的三列布局</title>
+    <link href="http://xiaolifeipiao.github.io/2020/05/15/san-lie-bu-ju/"/>
+    <id>http://xiaolifeipiao.github.io/2020/05/15/san-lie-bu-ju/</id>
+    <published>2020-05-15T12:46:25.000Z</published>
+    <updated>2021-04-15T06:53:56.905Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;三列布局&quot;&gt;&lt;a href=&quot;#三列布局&quot; class=&quot;headerlink&quot; title=&quot;三列布局&quot;&gt;&lt;/a&gt;三列布局&lt;/h1&gt;&lt;h2 id=&quot;初衷&quot;&gt;&lt;a href=&quot;#初衷&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="http://xiaolifeipiao.github.io/2020/05/15/she-ji-mo-shi/"/>
+    <id>http://xiaolifeipiao.github.io/2020/05/15/she-ji-mo-shi/</id>
+    <published>2020-05-15T12:46:25.000Z</published>
+    <updated>2021-04-15T06:54:22.312Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-软件设计模式的概念&quot;&gt;&lt;a href=&quot;#1-软件设计模式的概念&quot; class=&quot;headerlink&quot; title=&quot;1. 软件设计模式的概念&quot;&gt;&lt;/a&gt;1. 软件设计模式的概念&lt;/h2&gt;&lt;p&gt;软件设计模式（Software Design</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JS 几种继承实现</title>
+    <link href="http://xiaolifeipiao.github.io/2020/05/15/li-jie-dui-xiang/"/>
+    <id>http://xiaolifeipiao.github.io/2020/05/15/li-jie-dui-xiang/</id>
+    <published>2020-05-15T12:46:25.000Z</published>
+    <updated>2021-04-15T06:51:24.472Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;面向对象&quot;&gt;&lt;a href=&quot;#面向对象&quot; class=&quot;headerlink&quot; title=&quot;面向对象&quot;&gt;&lt;/a&gt;面向对象&lt;/h1&gt;&lt;h2 id=&quot;1-面向对象的三大特性&quot;&gt;&lt;a href=&quot;#1-面向对象的三大特性&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
