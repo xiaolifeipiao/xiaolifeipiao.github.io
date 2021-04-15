@@ -6,7 +6,7 @@
   <link href="http://xiaolifeipiao.github.io/atom.xml" rel="self"/>
   
   <link href="http://xiaolifeipiao.github.io/"/>
-  <updated>2021-04-15T06:53:13.470Z</updated>
+  <updated>2021-04-15T11:18:33.053Z</updated>
   <id>http://xiaolifeipiao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://xiaolifeipiao.github.io/2020/05/15/23-chong-she-ji-mo-shi/"/>
     <id>http://xiaolifeipiao.github.io/2020/05/15/23-chong-she-ji-mo-shi/</id>
     <published>2020-05-15T12:46:25.000Z</published>
-    <updated>2021-04-15T06:53:13.470Z</updated>
+    <updated>2021-04-15T11:18:33.053Z</updated>
     
     
       
@@ -36,6 +36,8 @@
     
     
     
+    <category term="23种设计模式" scheme="http://xiaolifeipiao.github.io/tags/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +45,7 @@
     <link href="http://xiaolifeipiao.github.io/2020/05/15/san-lie-bu-ju/"/>
     <id>http://xiaolifeipiao.github.io/2020/05/15/san-lie-bu-ju/</id>
     <published>2020-05-15T12:46:25.000Z</published>
-    <updated>2021-04-15T06:53:56.905Z</updated>
+    <updated>2021-04-15T11:18:12.070Z</updated>
     
     
       
@@ -57,6 +59,10 @@
     
     
     
+    <category term="Html5" scheme="http://xiaolifeipiao.github.io/tags/Html5/"/>
+    
+    <category term="三列布局" scheme="http://xiaolifeipiao.github.io/tags/%E4%B8%89%E5%88%97%E5%B8%83%E5%B1%80/"/>
+    
   </entry>
   
   <entry>
@@ -64,7 +70,7 @@
     <link href="http://xiaolifeipiao.github.io/2020/05/15/she-ji-mo-shi/"/>
     <id>http://xiaolifeipiao.github.io/2020/05/15/she-ji-mo-shi/</id>
     <published>2020-05-15T12:46:25.000Z</published>
-    <updated>2021-04-15T06:54:22.312Z</updated>
+    <updated>2021-04-15T11:18:21.950Z</updated>
     
     
       
@@ -78,6 +84,8 @@
     
     
     
+    <category term="设计模式" scheme="http://xiaolifeipiao.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
   </entry>
   
   <entry>
@@ -85,7 +93,7 @@
     <link href="http://xiaolifeipiao.github.io/2020/05/15/li-jie-dui-xiang/"/>
     <id>http://xiaolifeipiao.github.io/2020/05/15/li-jie-dui-xiang/</id>
     <published>2020-05-15T12:46:25.000Z</published>
-    <updated>2021-04-15T06:51:24.472Z</updated>
+    <updated>2021-04-15T11:17:45.433Z</updated>
     
     
       
@@ -98,6 +106,10 @@
     
     
     
+    
+    <category term="Js" scheme="http://xiaolifeipiao.github.io/tags/Js/"/>
+    
+    <category term="Js的继承" scheme="http://xiaolifeipiao.github.io/tags/Js%E7%9A%84%E7%BB%A7%E6%89%BF/"/>
     
   </entry>
   
